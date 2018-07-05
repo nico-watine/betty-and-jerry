@@ -1,5 +1,17 @@
 @import '_var.scss';
 
 @import 'components/_typography.scss';
-@import 'pages/_lodging.scss';
 @import 'components/_shadows.scss';
+@import 'components/_borders.scss';
+@import 'pages/_lodging.scss';
+
+
+
+
+// SCRATCH
+
+.hotelName {
+	padding: 15px 30px;
+	background: #64313E;
+	margin-bottom: 15px;
+}

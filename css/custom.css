@@ -40,3 +40,12 @@ h6,
 
 .boxShadow-5 {
   box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3); }
+
+.borderRadius-10,
+.borderRadius-10 .fusion-column-wrapper {
+  border-radius: 10px !important; }
+
+.hotelName {
+  padding: 15px 30px;
+  background: #64313E;
+  margin-bottom: 15px; }
