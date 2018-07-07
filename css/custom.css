@@ -45,7 +45,10 @@ h6,
 .borderRadius-10 .fusion-column-wrapper {
   border-radius: 10px !important; }
 
+.fusion-logo img {
+  height: 100px; }
+
 .hotelName {
   padding: 15px 30px;
-  background: #64313E;
+  background: #64313e;
   margin-bottom: 15px; }
