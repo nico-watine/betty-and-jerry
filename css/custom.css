@@ -1,74 +1,59 @@
-@import url('https://fonts.googleapis.com/css?family=Clicker+Script');
+@import url("https://fonts.googleapis.com/css?family=Clicker+Script");
 .cursive {
-	font-family: 'Clicker Script', cursive !important;
-}
+  font-family: 'Clicker Script', cursive !important; }
 
 p,
 .p {
-	font-size: 18px;
-}
+  font-size: 18px; }
 
 h1,
 .h1 {
-	font-size: 50px;
-}
+  font-size: 50px; }
 
 h2,
 .h2 {
-	font-size: 38px;
-}
+  font-size: 38px; }
 
 h3,
 .h3 {
-	font-size: 28px;
-}
+  font-size: 28px; }
 
 h4,
 .h4 {
-	font-size: 21px;
-}
+  font-size: 21px; }
 
 h5,
 .h5 {
-	font-size: 16px;
-}
+  font-size: 16px; }
 
 h6,
 .h6 {
-	font-size: 14px;
-}
+  font-size: 14px; }
 
 .boxShadow-1 {
-	box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .37);
-}
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37) !important; }
 
 .boxShadow-2 {
-	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .2), 0 6px 10px 0 rgba(0, 0, 0, .3);
-}
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3) !important; }
 
 .boxShadow-3 {
-	box-shadow: 0 11px 7px 0 rgba(0, 0, 0, .19), 0 13px 25px 0 rgba(0, 0, 0, .3);
-}
+  box-shadow: 0 11px 7px 0 rgba(0, 0, 0, 0.19), 0 13px 25px 0 rgba(0, 0, 0, 0.3) !important; }
 
 .boxShadow-4 {
-	box-shadow: 0 14px 12px 0 rgba(0, 0, 0, .17), 0 20px 40px 0 rgba(0, 0, 0, .3);
-}
+  box-shadow: 0 14px 12px 0 rgba(0, 0, 0, 0.17), 0 20px 40px 0 rgba(0, 0, 0, 0.3) !important; }
 
 .boxShadow-5 {
-	box-shadow: 0 17px 17px 0 rgba(0, 0, 0, .15), 0 27px 55px 0 rgba(0, 0, 0, .3);
-}
+  box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3) !important; }
 
 .borderRadius-10,
 .borderRadius-10 .fusion-column-wrapper {
-	border-radius: 10px !important;
-}
+  border-radius: 10px !important;
+  overflow: hidden !important; }
 
 .fusion-logo img {
-	height: 100px;
-}
+  height: 100px; }
 
 .hotelName {
-	padding: 15px 30px;
-	background: #64313e;
-	margin-bottom: 15px;
-}
+  padding: 15px 30px;
+  background: #64313e;
+  margin-bottom: 15px; }
