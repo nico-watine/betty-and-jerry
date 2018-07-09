@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Clicker+Script');
 .cursive {
-	font-family: 'Clicker Script', cursive;
+	font-family: 'Clicker Script', cursive !important;
 }
 
 p,
