@@ -11,3 +11,11 @@ https://www.marriott.com/hotels/travel/houcf-courtyard-houston-sugar-land-lake-p
 # -------------------------------------
 
 https://houstonsugarland.place.hyatt.com/en/hotel/home.html
+
+
+
+# ----------------------------------------------
+# |            Marriott Town Square            |
+# ----------------------------------------------
+
+https://www.marriott.com/hotels/travel/housl-sugar-land-marriott-town-square/
