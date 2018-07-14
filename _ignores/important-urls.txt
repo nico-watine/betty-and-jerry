@@ -26,7 +26,7 @@ https://www.marriott.com/hotels/travel/housl-sugar-land-marriott-town-square/
 # |            RSVPIFY Form Link            |
 # -------------------------------------------
 
-http://bettandjerry.rsvpify.com
+http://bettyandjerry.rsvpify.com
 
 
 
