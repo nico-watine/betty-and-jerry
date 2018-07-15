@@ -2,6 +2,10 @@
 .cursive {
   font-family: 'Clicker Script', cursive !important; }
 
+.opensans-600 {
+  font-family: 'Open Sans', sans-serif !important;
+  font-weight: 600; }
+
 p,
 .p {
   font-size: 18px; }
