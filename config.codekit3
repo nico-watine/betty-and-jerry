@@ -207,7 +207,7 @@
 		"uL": 1
 		},
 	"\/scss\/custom.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -216,7 +216,7 @@
 		"oA": 0,
 		"oAP": "\/css\/custom.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/scss\/pages\/_index.scss": {
