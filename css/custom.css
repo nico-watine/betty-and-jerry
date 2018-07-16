@@ -1,1 +1,49 @@
-@import url("https://fonts.googleapis.com/css?family=Clicker+Script|Open+Sans:600");.cursive{font-family:'Clicker Script', cursive !important}.opensans-600{font-family:'Open Sans', sans-serif !important;font-weight:600 !important}p,.p{font-size:18px}h1,.h1{font-size:50px}h2,.h2{font-size:38px}h3,.h3{font-size:28px}h4,.h4{font-size:21px}h5,.h5{font-size:16px}h6,.h6{font-size:14px}.padding-0{padding:0 !important}.margin-0{margin:0 !important}.boxShadow-1{-webkit-box-shadow:0 1px 4px 0 rgba(0,0,0,0.37) !important;box-shadow:0 1px 4px 0 rgba(0,0,0,0.37) !important}.boxShadow-2{-webkit-box-shadow:0 2px 2px 0 rgba(0,0,0,0.2),0 6px 10px 0 rgba(0,0,0,0.3) !important;box-shadow:0 2px 2px 0 rgba(0,0,0,0.2),0 6px 10px 0 rgba(0,0,0,0.3) !important}.boxShadow-3{-webkit-box-shadow:0 11px 7px 0 rgba(0,0,0,0.19),0 13px 25px 0 rgba(0,0,0,0.3) !important;box-shadow:0 11px 7px 0 rgba(0,0,0,0.19),0 13px 25px 0 rgba(0,0,0,0.3) !important}.boxShadow-4{-webkit-box-shadow:0 14px 12px 0 rgba(0,0,0,0.17),0 20px 40px 0 rgba(0,0,0,0.3) !important;box-shadow:0 14px 12px 0 rgba(0,0,0,0.17),0 20px 40px 0 rgba(0,0,0,0.3) !important}.boxShadow-5{-webkit-box-shadow:0 17px 17px 0 rgba(0,0,0,0.15),0 27px 55px 0 rgba(0,0,0,0.3) !important;box-shadow:0 17px 17px 0 rgba(0,0,0,0.15),0 27px 55px 0 rgba(0,0,0,0.3) !important}.borderRadius-10,.borderRadius-10 .fusion-column-wrapper{border-radius:10px !important;overflow:hidden !important}.gradient-1{background-image:-webkit-gradient(linear, left top, left bottom, color-stop(50%, transparent), to(rgba(0,0,0,0.4)));background-image:linear-gradient(-180deg, transparent 50%, rgba(0,0,0,0.4) 100%)}.gradient-2{background-image:-webkit-gradient(linear, left bottom, left top, color-stop(49%, rgba(174,197,213,0)), to(#AEC5D5));background-image:linear-gradient(0deg, rgba(174,197,213,0) 49%, #AEC5D5 100%)}.indexSplash{background:-webkit-gradient(linear, left bottom, left top, color-stop(49%, rgba(174,197,213,0)), to(#AEC5D5)),url("/wp-content/uploads/2018/07/3.jpg") center/cover no-repeat !important;background:linear-gradient(0deg, rgba(174,197,213,0) 49%, #AEC5D5 100%),url("/wp-content/uploads/2018/07/3.jpg") center/cover no-repeat !important}.fusion-logo img{height:100px}.hotelName{padding:15px 30px;background:#64313e;margin-bottom:15px}.fusion-main-menu .fusion-widget-cart-counter>a:before,.fusion-main-menu>ul>li>a{color:#fff}.fusion-logo{display:none;visibility:hidden}
+@import url("https://fonts.googleapis.com/css?family=Clicker+Script");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:600");
+.cursive { font-family: 'Clicker Script', cursive !important; }
+
+.opensans-600 { font-family: 'Open Sans', sans-serif !important; font-weight: 600 !important; }
+
+p, .p { font-size: 18px; }
+
+h1, .h1 { font-size: 50px; }
+
+h2, .h2 { font-size: 38px; }
+
+h3, .h3 { font-size: 28px; }
+
+h4, .h4 { font-size: 21px; }
+
+h5, .h5 { font-size: 16px; }
+
+h6, .h6 { font-size: 14px; }
+
+.padding-0 { padding: 0 !important; }
+
+.margin-0 { margin: 0 !important; }
+
+.boxShadow-1 { -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37) !important; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37) !important; }
+
+.boxShadow-2 { -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3) !important; box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3) !important; }
+
+.boxShadow-3 { -webkit-box-shadow: 0 11px 7px 0 rgba(0, 0, 0, 0.19), 0 13px 25px 0 rgba(0, 0, 0, 0.3) !important; box-shadow: 0 11px 7px 0 rgba(0, 0, 0, 0.19), 0 13px 25px 0 rgba(0, 0, 0, 0.3) !important; }
+
+.boxShadow-4 { -webkit-box-shadow: 0 14px 12px 0 rgba(0, 0, 0, 0.17), 0 20px 40px 0 rgba(0, 0, 0, 0.3) !important; box-shadow: 0 14px 12px 0 rgba(0, 0, 0, 0.17), 0 20px 40px 0 rgba(0, 0, 0, 0.3) !important; }
+
+.boxShadow-5 { -webkit-box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3) !important; box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3) !important; }
+
+.borderRadius-10, .borderRadius-10 .fusion-column-wrapper { border-radius: 10px !important; overflow: hidden !important; }
+
+.gradient-1 { background-image: -webkit-gradient(linear, left top, left bottom, color-stop(50%, transparent), to(rgba(0, 0, 0, 0.4))); background-image: linear-gradient(-180deg, transparent 50%, rgba(0, 0, 0, 0.4) 100%); }
+
+.gradient-2 { background-image: -webkit-gradient(linear, left bottom, left top, color-stop(49%, rgba(174, 197, 213, 0)), to(#AEC5D5)); background-image: linear-gradient(0deg, rgba(174, 197, 213, 0) 49%, #AEC5D5 100%); }
+
+.indexSplash { background: -webkit-gradient(linear, left bottom, left top, color-stop(49%, rgba(174, 197, 213, 0)), to(#AEC5D5)), url("/wp-content/uploads/2018/07/index-large.jpg") center/cover no-repeat !important; background: linear-gradient(0deg, rgba(174, 197, 213, 0) 49%, #AEC5D5 100%), url("/wp-content/uploads/2018/07/index-large.jpg") center/cover no-repeat !important; }
+
+.fusion-logo img { height: 100px; }
+
+.hotelName { padding: 15px 30px; background: #64313e; margin-bottom: 15px; }
+
+.fusion-main-menu .fusion-widget-cart-counter > a:before, .fusion-main-menu > ul > li > a { color: #fff; }
+
+.fusion-logo { display: none; visibility: hidden; }
